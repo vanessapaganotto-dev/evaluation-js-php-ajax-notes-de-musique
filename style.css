@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 80px;
+  font-size: 1.5em; /* texte général plus gros */
+}
+
+h1 {
+  margin-bottom: 40px;
+  font-size: 2.5em;   /* titre très grand */
+}
+
+#conteneur-formulaire,
+#resultat,
+button {
+  display: block;
+  margin: 20px auto;
+}
+
+select,
+label {
+  display: block;
+  margin: 15px auto;
+  font-size: 1.4em;  /* texte du formulaire très lisible */
+}
+
+button {
+  padding: 1em 2em;  /* boutons plus gros et faciles à cliquer */
+  font-size: 1.5em;
+}
