@@ -10,19 +10,25 @@ Elle contient une page HTML simple avec deux boutons :
 
 Le formulaire et les résultats de la notation sont affichés sans rechargement de la page grâce à AJAX.
 
+---
+
 ## Contenu du projet
 
 - `index.html` : page principale HTML  
 - `style.css` : styles CSS pour la mise en forme  
 - `script.js` : script JavaScript pour gérer les requêtes AJAX et l'interaction utilisateur  
-- Backend PHP (non inclus dans l’extrait) pour recevoir les données AJAX et traiter la notation  
+- Backend PHP (non inclus dans l’extrait) pour recevoir les données AJAX et traiter la notation
+
+---
 
 ## Fonctionnalités
 
 - Chargement dynamique du formulaire de notation via AJAX  
 - Envoi asynchrone des notes au serveur PHP  
 - Affichage des résultats sans rechargement  
-- Interface simple et responsive  
+- Interface simple et responsive
+
+---
 
 ## Installation et utilisation
 
@@ -30,14 +36,18 @@ Le formulaire et les résultats de la notation sont affichés sans rechargement 
 - S’assurer que PHP est configuré et que les fichiers PHP backend sont présents (à implémenter selon besoin)  
 - Ouvrir `index.html` dans un navigateur web compatible (Chrome, Firefox, Edge...)  
 - Cliquer sur le bouton **Notation** pour afficher le formulaire et commencer à noter  
-- Cliquer sur **Fermer** pour cacher le formulaire  
+- Cliquer sur **Fermer** pour cacher le formulaire
+
+---
 
 ## Technologies utilisées
 
 - HTML5  
 - CSS3  
 - JavaScript (AJAX)  
-- PHP (backend, à compléter)  
+- PHP (backend, à compléter)
+
+--- 
 
 ## À compléter
 
@@ -45,12 +55,16 @@ Le backend PHP qui gère les requêtes AJAX pour :
 
 - Afficher le formulaire de notation  
 - Enregistrer les notes reçues  
-- Retourner le résultat à afficher  
+- Retourner le résultat à afficher
+
+--- 
 
 ## Auteur
 
 Vanessa PAGANOTTO (exemple)
 
+---
+
 ## Licence
 
-Ce projet est sous licence MIT — voir le fichier LICENSE pour plus de détails.
+Ce projet est sous licence MIT.
