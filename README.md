@@ -17,7 +17,7 @@ Le formulaire et les résultats de la notation sont affichés sans rechargement 
 - `index.html` : page principale HTML  
 - `style.css` : styles CSS pour la mise en forme  
 - `script.js` : script JavaScript pour gérer les requêtes AJAX et l'interaction utilisateur  
-- Backend PHP (non inclus dans l’extrait) pour recevoir les données AJAX et traiter la notation
+- Backend PHP pour recevoir les données AJAX et traiter la notation
 
 ---
 
@@ -45,7 +45,7 @@ Le formulaire et les résultats de la notation sont affichés sans rechargement 
 - HTML5  
 - CSS3  
 - JavaScript (AJAX)  
-- PHP (backend, à compléter)
+- PHP (backend)
 
 --- 
 
@@ -61,7 +61,7 @@ Le backend PHP qui gère les requêtes AJAX pour :
 
 ## Auteur
 
-Vanessa PAGANOTTO (exemple)
+Vanessa PAGANOTTO 
 
 ---
 
